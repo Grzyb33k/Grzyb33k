@@ -1,16 +1,14 @@
-## Hi there 👋
+# [Kamil Kania]
 
-<!--
-**Grzyb33k/Grzyb33k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Visitors](https://komarev.com/ghpvc/?username=Grzyb33k&label=visitors&color=blue&style=flat)
 
-Here are some ideas to get you started:
+**MSc in Applied Physics**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Member of the [Open Atmos]([https://github.com/open-atmos](https://open-atmos-krk.github.io/)) team. My work primarily focuses on scientific computing, currently working mainly with `numba-mpi`.
+
+### Tech Stack
+* **Core Languages:** 
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+* **Learning:** 
+  ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)

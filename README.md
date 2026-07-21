@@ -19,19 +19,19 @@ Part of the [Open Atmos](https://open-atmos-krk.github.io/) team. My work primar
   ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 
 ## GitHub Analytics
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Grzyb33k&theme=tokyonight" alt="Profile summary" />
+</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Grzyb33k&theme=tokyonight" alt="GitHub stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Grzyb33k&theme=tokyonight" alt="Repos per language" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Grzyb33k&theme=tokyonight" alt="Profile summary" />
-</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Grzyb33k&theme=tokyonight" alt="Productive time" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-per-day?username=Grzyb33k&theme=tokyonight" alt="Most commit per day" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Grzyb33k&theme=tokyonight" alt=Most Commit Lang" />
 </p>
 
 <div align="center">
